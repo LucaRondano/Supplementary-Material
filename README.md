@@ -5,3 +5,5 @@ In Script1, under line 78:# Study parameters, modify the parameters to change va
 In Script1, under line 117:# Alpha spent at interim, choose the type of alpha spending function to use by commenting out the undesired functions.
 
 The pdf file "Plots_for_other_IF.pdf" containts plots for the 3 examples discussed in the paper, but with information fractions equal to 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8 (instead of only IF=0.5 like in the paper).
+
+The excel file "Probability_table_for_IF_02and08.xlxx" is a table with PoS, PoS_post, P(early stop), P(early stop for efficacy) and P(early stop for futility) for the 3 examples discussed in the paper, with information fractions equal to 0.2 and 0.8.
